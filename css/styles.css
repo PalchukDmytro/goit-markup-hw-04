@@ -218,6 +218,17 @@ img {
         width: calc((100% - 72px) / 4);
 }
 
+.container-list-values-icon {
+        display: flex;
+        height: 112px;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #8E8F99;
+        border-radius: 4px;
+        background-color: #F4F4FD;
+        margin-bottom: 8px;
+}
+
 .title-values-item {
         font-size: 20px;
         font-weight: 500;
